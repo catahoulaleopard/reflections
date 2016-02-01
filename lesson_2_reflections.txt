@@ -1,0 +1,1 @@
+When  you initialize a repository git starts tracking changes to hyour files in commits. This allows you to go back to previous versions of your project to protect you from screwing it up irreversibly.
