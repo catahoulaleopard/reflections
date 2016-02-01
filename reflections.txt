@@ -1,0 +1,6 @@
+These are some reflections on the version control lessons.
+Lesson 1:
+Learned to clone a git repository from github.
+learned how to get the log of commits to a repository
+learned how to use git diff to see the changes between two files using git diff id#1 id#2
+learned how to customize git bash command tool using .bash_profile
