@@ -1,1 +1,5 @@
 When  you initialize a repository git starts tracking changes to hyour files in commits. This allows you to go back to previous versions of your project to protect you from screwing it up irreversibly.
+
+The staging area is where (the status of) files go when you 'add' them.
+This means that these added files will be committed with the next repository commit.
+You can choose which files get committed to the repository and which stay out. There may be files that you're using for your own purposes in the working directory that are not part of the overall project and would clutter the project if they were committed to the repository, so it's good to be able to commit only those files that belong in the final repository.
