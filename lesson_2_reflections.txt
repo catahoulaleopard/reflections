@@ -5,3 +5,6 @@ This means that these added files will be committed with the next repository com
 You can choose which files get committed to the repository and which stay out. There may be files that you're using for your own purposes in the working directory that are not part of the overall project and would clutter the project if they were committed to the repository, so it's good to be able to commit only those files that belong in the final repository.
 
 You can use the staging area as a holding area for your files until an actual logical change has been introduced, then commit that change. You can mess around with the file using the staging area as a temporary alternate working area.
+
+Branches (git branch [new branch name]) allow you to make substantial changes to the project that may take the project in a new direction. Possible uses are another version of the project (new language, easy mode, etc.). Or to try a radically different approach without worrying about messing up the main branch.
+
