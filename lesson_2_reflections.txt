@@ -8,3 +8,9 @@ You can use the staging area as a holding area for your files until an actual lo
 
 Branches (git branch [new branch name]) allow you to make substantial changes to the project that may take the project in a new direction. Possible uses are another version of the project (new language, easy mode, etc.). Or to try a radically different approach without worrying about messing up the main branch.
 
+(git log --graph) Diagrams help you visualize the path(s) that your code has taken. If a project branches multiple times or changes are made after branches are added, it could become difficult to remember where the code stands. A diagram could help you mentally organize things.
+
+Merging two branches brings the changes made on one branch and the changes made on another into a single branch so that all changes are represented in the current project. 
+
+The pro of Git's automatic merging are that it saves lots of time and effort that manually updating would require. The con is that it doesn't always get the merge perfect and you might need to go in and clarify which changes to keep and which to discard.
+
