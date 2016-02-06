@@ -1,3 +1,6 @@
 You might want to use a remote repository when working with other people so they don't need to physically access your computer, etc. Or when you use multiple machines.
 
 You wouldn't want all changes to the remote repository to automatically pull to your local project because you may be working on a problem or feature that isn't yet finished or is a side-feature and needs further development before any changes from anyone else or are introduced. Let's you work independently until you're ready to share your progress with the core project.
+
+A fork is when you copy a repository directly from github to your own github account. A clone is when you copy a repository from your own github account or from your own local to your local. A branch is a copy of your project within your current repository on either local or github.
+
