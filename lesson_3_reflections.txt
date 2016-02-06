@@ -6,3 +6,4 @@ A fork is when you copy a repository directly from github to your own github acc
 
 It's good to have a copy of the last known state of the remote stored locally because you want to have all the latest changes to the project before moving forward.
 
+You'd want to make changes to a separate branch rather than master if you're going to be collaborating with others on github through pull requests. That way, any changes you make can be validated by the puller before being incorporated into the master (both remotely and locally).
