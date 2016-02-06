@@ -4,3 +4,5 @@ You wouldn't want all changes to the remote repository to automatically pull to 
 
 A fork is when you copy a repository directly from github to your own github account. A clone is when you copy a repository from your own github account or from your own local to your local. A branch is a copy of your project within your current repository on either local or github.
 
+It's good to have a copy of the last known state of the remote stored locally because you want to have all the latest changes to the project before moving forward.
+
