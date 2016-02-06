@@ -1,0 +1,1 @@
+You might want to use a remote repository when working with other people so they don't need to physically access your computer, etc. Or when you use multiple machines.
